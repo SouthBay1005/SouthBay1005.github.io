@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js">
+</script>
+<script>
+$(document).ready(function(){
+	$("button").click(function(){
+		var a=$("#hs").val();
+		if(a=="向熠")
+		alert("你果然是有一个有眼光的人");
+		else
+		alert("回答错误，奖励你再答一次");
+		});
+	});
+</script>
+</head>
+
+<body>
+<p>嘿，朋友，这是一段送命题</p>
+<p>一定要认真回答哦</p>
+<form>
+请填下班上最帅男生的名字:&nbsp&nbsp <input id="hs" type="text" name="yourname">
+</form>
+<br>
+<button>确定</button>
+</body>
+</html>
