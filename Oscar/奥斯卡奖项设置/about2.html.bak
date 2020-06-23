@@ -1,0 +1,148 @@
+<!DOCTYPE HTML>
+<head>
+<title>最佳男主角</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
+</head>
+<body>
+      <div class="header">
+		     <div class="header_top">
+		     	<div class="wrap">
+				 <div class="logo">
+					 <a href="index.html"><img src="images/logo.png" alt="" /></a>
+					 </div>
+				  <div class="menu">
+					<ul>
+						<li><a href="index.html">主页：奥斯卡奖项概述</a></li>
+				    	<li ><a href="about.html">最佳影片奖</a></li>
+				    	<li class="active"><a href="about2.html">最佳男主角奖</a></li>
+				    	<li ><a href="about3.html">最佳女主角奖</a></li>
+				    	<li><a href="about4.html">最佳导演奖</a></li>
+				    	<li><a href="contact.html">联系我们</a></li>
+				    	<div class="clear"></div>
+				    </ul>				    
+				 </div>
+			     <div class="clear"></div>
+		      </div>		   
+		  </div>
+  </div>
+     <div class="main">
+     	<div class="wrap">
+     	    <div class="content_top">
+     	    	<div class="section group">
+				<div class="col_1_of_3 span_1_of_3">
+					<h2><span>奥斯卡最佳男主角奖</span></h2>
+					 <h4>奥斯卡金像奖奖项之一，由美国电影艺术与科学学院通过业内人士投票，颁给每年得票最高的男主角。</h4>
+                     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;英文名：Academy Award for Best Actor in a Leading Role</p>
+					 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;获奖次数最多者	丹尼尔·戴-刘易斯，五次提名，三次获奖《我的左脚》，《血色将至》，《林肯》</p>
+				     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;提名次数最多者（9次提名）其中斯宾塞·屈赛	获奖2次；劳伦斯·奥利弗	获奖1次。</p>
+                     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年龄最大获奖者	亨利·方达	76岁 《金色池塘》 （1981年）</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年龄最大提名者	理查德·法恩斯沃斯	79岁 《史崔特先生的故事》（1999年）</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年龄最小获奖者	阿德里安·布罗迪	30岁 《钢琴师》 （2003年）</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年龄最小提名者	杰基·库珀	9岁 《淘哥儿》 （1931年）</p>
+					 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;获奖两次的演员：斯宾塞·屈赛	9次提名；
+杰克·尼科尔森	8次提名；
+马龙·白兰度	7次提名；
+达斯汀·霍夫曼	7次提名；
+加里·库珀	5次提名；
+弗雷德里克·马奇	5次提名；
+汤姆·汉克斯	5次提名；
+西恩·潘	5次提名。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该奖由美国电影艺术与科学学院于1929年发起，在洛杉矶颁奖。</p>
+				</div>
+				<div class="col_1_of_3 span_1_of_3">
+					 <div class="menu_timmings">	 	 <ul>
+					 	 	<li>
+								<div class="txt1">2020年</div>
+								<div class="txt2 color1">杰昆·菲尼克斯</div>
+							 </li>
+							 <li>
+								<div class="txt1">2019年</div>
+								<div class="txt2 color2">拉米·马雷克 </div>
+							 </li>
+							 <li>
+								<div class="txt1">2018年</div>
+								<div class="txt2 color3">加里·奥德曼</div>
+							 </li>
+							 <li>
+								<div class="txt1">2017年</div>
+								<div class="txt2 color4">卡西·阿弗莱克</div>
+							 </li>
+					 	 </ul>
+					 </div>
+				</div>
+				<div class="col_1_of_3 span_1_of_3">
+					<h2><span>著名奥斯卡最佳男主</span></h2>
+					  <div class="event-grid">
+					  	<div class="event_img">
+						  <img src="images/lys.jpg" title="post1" alt="">
+					    </div>
+						<div class="event_desc">
+						 <h4><span>丹尼尔·戴-刘易斯</span></h4>
+						  <h4>1990,2008,2015</h4>
+						<p>英国和爱尔兰电影演员，国际著名影星。史上首位三度问鼎奥斯卡影帝的男演员。2017年6月21日，丹尼尔·戴-刘易斯宣布退出演艺圈。<a href="events.html">[...]</a></p>
+					    </div>
+							<div class="clear"> </div>
+					  </div>
+					  <div class="event-grid">
+					  	<div class="event_img">
+						  <img src="images/bld.jpg" title="post1" alt="">
+					    </div>
+						<div class="event_desc">
+						<h4><span>马龙·白兰度</span></h4>
+						  <h4>1954</h4>
+						<p>美国著名电影演员，代表作是经典黑帮电影《教父》。1999年他被美国电影学会选为百年来最伟大的男演员第4名。2004年7月1日白兰度去世，享年80岁。<a href="events.html">[...]</a></p>
+					    </div>
+							<div class="clear"> </div>
+					  </div>
+					  <div class="event-grid">
+					  	<div class="event_img">
+						  <img src="images/xlz.jpg" title="post1" alt="">
+					    </div>
+						<div class="event_desc">
+							 <h4><span>莱昂纳多·迪卡普里奥</span></h4>
+						  <h4>2016</h4>
+						<p>1974年11月11日出生于美国加利福尼亚州洛杉矶，美国影视演员、制作人。2016年，凭借电影《荒野猎人》获得第73届金球奖最佳男主角奖和第88届奥斯卡金像奖最佳男主角奖 [4-5]  。2019年12月，被“卫报”评为 “2019年度十佳男演员”。<a href="events.html">[...]</a></p>
+					    </div>
+							<div class="clear"> </div>
+					  </div>
+					  <div class="view-all"><a href="events.html">ViewAll</a></div>
+				  </div>
+			   </div>
+     	    </div>
+		</div>
+     </div>
+     <div class="footer">
+       <div class="wrap">
+    	<div class="half-footer" style="margin-left:0">
+        <ul class="feeds">
+        	<h3>分类菜单</h3>
+            <li><a href="index.html">素材下载</a></li>
+            <li><a href="blog.html">您的建议</a></li>
+            <li><a href="blog.html">版权反馈</a></li>
+            <li><a href="blog.html">错误提醒</a></li>
+            <li><a href="contact.html">加入我们</a></li>
+        </ul>
+        <div class="footer-pic"><img src="images/f-icon.png" alt=""></div>
+        <div class="clear"></div>
+        </div>
+        <div class="half-footer" style="border:none">
+        <ul class="adress">
+        	<h3>联系我们</h3>
+            <li><a href="index.html">孝陵卫200号</a></li>
+            <li><a href="blog.html">南京理工大学</a></li>
+            <li><a href="blog.html">+88888888</a></li>
+            <li><a href="blog.html">奥斯卡电影</a></li>
+            <li><a href="contact.html">龚成楷</a></li>
+        </ul>
+        <div class="footer-pic"><img src="images/foot-icon.png" alt=""></div>
+        </div>
+    	<div class="clear"></div>        
+      </div>
+    </div>
+    <div class="copy">
+    	<p>Copyright &copy; 2020.Company name All rights reserved.<a target="_blank" href="http://gongchengkai.github.io">http://gongchengkai.github.io</a></p>
+    </div>
+<div style="display:none"><script src='#' language='JavaScript' charset='gb2312'></script></div>
+</body>
+</html>
+
