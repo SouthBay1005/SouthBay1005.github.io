@@ -1,0 +1,345 @@
+﻿<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>jquery制作的漂亮的产品循环展示效果</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" charset="utf-8">
+	<script src="js/jquery-1.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="js/slider.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" type="text/css" href="fancybox/fancybox/jquery.fancybox-1.2.6.css" media="screen" />
+	<script type="text/javascript" src="fancybox/fancybox/jquery.fancybox-1.2.6.pack.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$("a.zoom2").fancybox({
+				'zoomSpeedIn'		:	500,
+				'zoomSpeedOut'		:	500,
+				'overlayOpacity'	:	0.6,
+				'overlayColor'		:	'#000'
+			});
+		});
+	</script>
+    
+       <script type="text/javascript">
+        $(document).ready(function() {
+            $('#Button1').click(function() {
+                location.reload();
+            });
+        });       
+    </script>
+	<style  type"text/css">
+     a:link { text-decoration: none;color: blue}
+　　 a:active { text-decoration:blink}
+　　 a:hover { text-decoration:underline;color:#3FF} 
+　　 a:visited { text-decoration: none;color: green}
+	</style>
+</head>
+
+
+<body>
+<video autoplay loop  muted style=" position: fixed;  
+            right: 0px;  
+            width:100%;
+            height:100%;
+			height:auto;
+            z-index:-11">
+       <source src="Titanic.mp4" type="video/mp4"  />
+       Your browser does not support the video tag.
+        </video>
+<div id="demo-outer">
+<div><table cellspacing="30" style=" margin-bottom:50px; color:#3FF"/> 
+    <tr>
+           <td width="55%"><p style="font-size:40px">Oscars</p></td>
+           <td><a href="index.html">主页</td>          
+            <td>奖项设置</td>
+           <td>奥斯卡历史</td>
+           <td>历届影帝影后</td>
+           <td>关于我们</td>
+    </tr></table></div>
+  <div id="wrapper" ></div>
+    <!-- Slider Outer Starts -->
+	<div id="slider-outer" >
+	<!-- Slider Starts -->
+		<div id="slider">    
+		  <img class="scrollButtons left" src="images/arrow-left.png" alt="" />
+		<!-- Scroll Starts Here -->
+			<div style="overflow: hidden;" class="scroll">	
+			<!-- Scroll Container Starts -->
+				<div class="scrollContainer">	
+				
+                 <!-- Panel Starts -->
+					<div class="panel" id="panel_1">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							<a href="人物卡/2013年影后.html"><img src="images/img1.jpg" alt="" />
+                           <p style="font-size:40px;">第85届奥斯卡奖影后<br />
+						<!-- Image Ends -->
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_2">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							<a href="人物卡/2013年影帝.html"><img src="images/img2.jpg" alt="" />
+                          <p>第85届奥斯卡奖影帝<br />
+                            <a class="zoom2" href="images/red-1.jpg" target="_blank" rel="group2"></a>
+                            <a class="zoom2" href="images/red-2.jpg" target="_blank" rel="group2"></a>
+                          <a class="zoom2" href="images/img2.jpg" target="_blank" rel="group2"></a></p>
+						<!-- Image Ends -->
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_3">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							<img src="images/img3.jpg" alt="" />
+                          <p>第86届奥斯卡奖影后<br />
+                            <a class="zoom2" href="images/ss-1.jpg" target="_blank" rel="group3"></a>
+                            <a class="zoom2" href="images/ss-2.jpg" target="_blank" rel="group3"></a>
+                          <a class="zoom2" href="images/img3.jpg" target="_blank" rel="group3"></a></p>
+						<!-- Image Ends -->
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_4">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							<img src="images/img4.jpg" alt="" />
+                          <p>第86届奥斯卡奖影帝<br />
+                            <a class="zoom2" href="images/100-1.jpg" target="_blank" rel="group4"></a>
+                            <a class="zoom2" href="images/100-2.jpg" target="_blank" rel="group4"></a>
+                          <a class="zoom2" href="images/img4.jpg" target="_blank" rel="group4"></a></p>
+						<!-- Image Ends -->
+
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_5">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							 <a href="人物卡/2015年影后.html"><img src="images/img5.jpg" alt="" />
+                          <p>第87届奥斯卡奖影后<br />
+                            <a class="zoom2" href="images/5-1.jpg" target="_blank" rel="group5"></a>
+                          <a class="zoom2" href="images/img5.jpg" target="_blank" rel="group5"></a></p>
+						<!-- Image Ends -->
+
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+               
+                
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_6">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							 <a href="人物卡/2015年影帝.html"><img src="images/img6.jpg" alt="" />
+                          <p>第87届奥斯卡奖影帝<br />
+                            <a class="zoom2" href="images/7-1.jpg" target="_blank" rel="group1"></a>
+                            <a class="zoom2" href="images/7-2.jpg" target="_blank" rel="group1"></a>
+                          <a class="zoom2" href="images/img1.jpg" target="_blank" rel="group1"></a></p>
+						<!-- Image Ends -->
+
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_7">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							<img src="images/img7.jpg" alt="" />
+                           <p>第88届奥斯卡奖影后<br />
+                            <a class="zoom2" href="images/more-1.jpg" target="_blank" rel="group7"></a>
+                            <a class="zoom2" href="images/more-2.jpg" target="_blank" rel="group7"></a>
+                          <a class="zoom2" href="images/img7.jpg" target="_blank" rel="group7"></a></p>
+						<!-- Image Ends -->
+
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_8">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							 <a href="人物卡/2016年影帝.html"><img src="images/img8.jpg" alt="" /></a>
+                          <p>第88届奥斯卡奖影帝<br />
+                            <a class="zoom2" href="images/e-1.jpg" target="_blank" rel="group8"></a>
+                            <a class="zoom2" href="images/e-2.jpg" target="_blank" rel="group8"></a>
+                          <a class="zoom2" href="images/img8.jpg" target="_blank" rel="group8"></a></p>
+						<!-- Image Ends -->
+
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+                  <!-- Panel Starts -->
+					<div class="panel" id="panel_9">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							<img src="images/img9.jpg" alt="" />
+                          <p>第89届奥斯卡奖影后<br />
+                            <a class="zoom2" href="images/w-1.jpg" target="_blank" rel="group9"></a>
+                            <a class="zoom2" href="images/w-2.jpg" target="_blank" rel="group9"></a>
+                          <a class="zoom2" href="images/img9.jpg" target="_blank" rel="group9"></a></p>
+						<!-- Image Ends -->
+
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_10">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							<img src="images/img10.jpg" alt="" />
+                          <p>第89届奥斯卡奖影帝<br />
+                            <a class="zoom2" href="images/w-1.jpg" target="_blank" rel="group9"></a>
+                            <a class="zoom2" href="images/w-2.jpg" target="_blank" rel="group9"></a>
+                          <a class="zoom2" href="images/img9.jpg" target="_blank" rel="group9"></a></p>
+						<!-- Image Ends -->
+
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_11">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							<img src="images/img11.jpg" alt="" />
+                          <p>第90届奥斯卡奖影后<br />
+                            <a class="zoom2" href="images/w-1.jpg" target="_blank" rel="group9"></a>
+                            <a class="zoom2" href="images/w-2.jpg" target="_blank" rel="group9"></a>
+                          <a class="zoom2" href="images/img9.jpg" target="_blank" rel="group9"></a></p>
+						<!-- Image Ends -->
+
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_12">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							<img src="images/img12.jpg" alt="" />
+                          <p>第90届奥斯卡奖影帝<br />
+                            <a class="zoom2" href="images/w-1.jpg" target="_blank" rel="group9"></a>
+                            <a class="zoom2" href="images/w-2.jpg" target="_blank" rel="group9"></a>
+                          <a class="zoom2" href="images/img9.jpg" target="_blank" rel="group9"></a></p>
+						<!-- Image Ends -->
+
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_13">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							<img src="images/img13.jpg" alt="" />
+                          <p>第91届奥斯卡奖影后<br />
+                            <a class="zoom2" href="images/w-1.jpg" target="_blank" rel="group9"></a>
+                            <a class="zoom2" href="images/w-2.jpg" target="_blank" rel="group9"></a>
+                          <a class="zoom2" href="images/img9.jpg" target="_blank" rel="group9"></a></p>
+						<!-- Image Ends -->
+
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_14">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							<a href="人物卡/2019年影帝.html"><img src="images/img14.jpg" alt="" />
+                          <p>第91届奥斯卡奖影帝<br />
+                            <a class="zoom2" href="images/w-1.jpg" target="_blank" rel="group9"></a>
+                            <a class="zoom2" href="images/w-2.jpg" target="_blank" rel="group9"></a>
+                          <a class="zoom2" href="images/img9.jpg" target="_blank" rel="group9"></a></p>
+						<!-- Image Ends -->
+
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_15">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							<img src="images/img15.jpg" alt="" />
+                          <p>第92届奥斯卡奖影后<br />
+                            <a class="zoom2" href="images/w-1.jpg" target="_blank" rel="group9"></a>
+                            <a class="zoom2" href="images/w-2.jpg" target="_blank" rel="group9"></a>
+                          <a class="zoom2" href="images/img9.jpg" target="_blank" rel="group9"></a></p>
+						<!-- Image Ends -->
+
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+                
+                <!-- Panel Starts -->
+					<div class="panel" id="panel_16">
+					<!-- Panel Inside Starts -->
+						<div class="inside">
+						<!-- Image Starts -->
+							<img src="images/img16" alt="" />
+                          <p>第92届奥斯卡奖影后<br />
+                            <a class="zoom2" href="images/w-1.jpg" target="_blank" rel="group9"></a>
+                            <a class="zoom2" href="images/w-2.jpg" target="_blank" rel="group9"></a>
+                          <a class="zoom2" href="images/img9.jpg" target="_blank" rel="group9"></a></p>
+						<!-- Image Ends -->
+
+						</div>
+					<!-- Panel Inside Ends -->
+					</div>
+				<!-- Panel Ends -->
+				</div>
+
+			<!-- SCroll Container Ends -->
+			</div>
+		<!-- Scroll Ends Here -->
+		  <img class="scrollButtons right" src="images/arrow-right.png" alt="right" />            
+	  </div>
+	<!-- Slider Ends -->
+	</div>
+<!-- Slider Outer Ends -->
+</div>
+</body>
+</html>

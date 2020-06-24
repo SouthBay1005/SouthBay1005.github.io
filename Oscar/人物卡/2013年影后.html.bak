@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html >
+<head>
+   
+
+    <title>詹尼佛劳伦斯</title>
+
+    
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    
+    <link href="css/style.css" rel="stylesheet">
+	
+	 
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+	
+  
+</head>
+<body>
+
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+          
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="index.html">詹尼佛劳伦斯</a>
+            </div>
+
+            
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="../people.html">主页</a>
+                    </li>
+      
+                    <li>
+                        <a class="page-scroll" href="contact.html">联系我们</a>
+                    </li>
+                </ul>
+            </div>
+            
+        </div>
+        
+    </nav>
+	
+	<header id="page-top">
+		<div class="wrap-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="intro-text">
+							<div class="intro-lead-in">第84届奥斯卡金像奖</div>
+							<div class="intro-heading">最佳女主角</div>
+						</div>
+						<a href="single.html" class="btn btn-1">国籍：美国</a>
+						<a href="contact.html" class="btn btn-2">影片：《乌云背后的幸福线》</a>
+					</div>
+				</div>
+			</div>
+		</div>
+    </header>
+	
+	<div class="gradient-line clearfix">
+		<div style="background: none repeat scroll 0% 0% #F69087;"></div>
+		<div style="background: none repeat scroll 0% 0% #85CCB1;"></div>
+		<div style="background: none repeat scroll 0% 0% #966b20;"></div>
+		<div style="background: none repeat scroll 0% 0% #85A9B3;"></div>
+		<div style="background: none repeat scroll 0% 0% #B0CB7A;"></div>
+	</div>
+	
+
+	<div id="page-content" class="index-page">
+		<div class="container">
+			<div class="col-md-12">
+				<div class="team">
+					<h2>生平经历</h2>
+					<div class="row">
+					<div class="col-md-3">
+						<div class="row">
+							<div class="zoom-container">
+								<div class="zoom-caption">
+									<h3>基本信息</h3>
+									
+									<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;詹妮弗·劳伦斯 外文名：Jennifer Lawrence 别名：表姐、詹妞 星座：狮子座 血型：A型 身    高：175cm 出生地：美国肯塔基州路易斯维尔 出生日期：1990年8月15日 职业：演员  代表作品：乌云背后的幸福线、奋斗的乔伊、饥饿游戏系列、X战警前传系列、冬天的骨头</p>
+									<ul class="list-inline">
+										
+									</ul>
+								</div>
+								<a href="single.html">
+									<img src="images/2013woman/主1.jpg" />
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="row">
+							<div class="zoom-container">
+								<div class="zoom-caption">
+									<h3>早年经历</h3>
+									
+									<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;詹妮弗·劳伦斯在14岁时决定投身表演事业，并说服父母带她去纽约寻求演出机会，尽管此前没有经过正规的表演训练，也没有正式的表演经历，她仍然在面试时给考官留下了深刻的印象，以一个不错的价格签约经纪公司。詹妮弗·劳伦斯为了能够全身心投入表演事业，提前两年从高中毕业，开始了自己的演艺生涯。
+</p>
+									<ul class="list-inline">
+										
+									</ul>
+								</div>
+								<a href="single.html">
+									<img src="images/2013woman/主2.jpg" />
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="row">
+							<div class="zoom-container">
+								<div class="zoom-caption">
+									<h3>演艺经历</h3>
+									
+									<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2007年，参演《比尔·英格沃秀》、《神探阿蒙》、《灵媒缉凶》。2008年，《扑克房》女主角。2009年，主演情感电影《燃烧的平原》。2010年，主演悬疑电影《冬天的骨头》 。2011年，主演科幻电影《X战警：第一战》，扮演魔形女瑞雯。2012年3月，主演冒险动作电影《饥饿游戏》。12月，主演爱情喜剧电影《乌云背后的幸福线》，饰演蒂凡妮 。2013年11月，在动作电影《饥饿游戏2：星火燎原》中扮演了坚强女孩凯特尼斯一角 。12月，主演犯罪电影《美国骗局》，罗瑟琳。2014年，在科幻系列电影《X战警：逆转未来》中再度饰演了魔形女瑞雯。2017年，主演由达伦·阿罗诺夫斯基执导的惊悚悬疑电影《母亲》。</p>
+									<ul class="list-inline">
+										
+									</ul>
+								</div>
+								<a href="single.html">
+									<img src="images/2013woman/主3.jpg" />
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="row">
+							<div class="zoom-container">
+								<div class="zoom-caption">
+									<h3>个人生活</h3>
+									
+									<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;詹妮弗·劳伦斯是家中的小女儿，有本和布莱恩两个哥哥，她的母亲凯伦经营一个儿童夏令营，父亲加里则曾经拥有一家做混凝土买卖的建筑公司 。2019年10月19日，詹妮弗·劳伦斯和她的丈夫库克·马鲁尼举行婚礼，婚礼地点在美国罗德岛贝尔科特城堡。</p>
+									<ul class="list-inline">
+										
+									</ul>
+								</div>
+								<a href="single.html">
+									<img src="images/2013woman/主4.jpg"  alt="图片"/>
+								</a>
+							</div>
+						</div>
+					</div>
+					</div>
+				</div>
+			</div>
+			<div id="main-content" class="col-md-8">
+				<article>
+					<div class="art-header">
+						<a href="#"><h2>奥斯卡之夜摔跤</h2></a>
+						<div class="info">By <a href="#">龚成楷</a> June 12, 2020。    999+ Comments</div>
+					</div>
+					<div class="art-content">
+						<div class="col-md-5">
+							<img src="images/2013woman/舆1奥斯卡摔跤.png" alt="图片"/>
+						</div>
+						<div class="col-md-7">
+						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp2013年奥斯卡颁奖典礼上，詹妮弗·劳伦斯被提名最佳女主角，在上台领奖时，詹妮弗跌倒在了楼梯上，成为奥斯卡典礼令人难忘的一刻。</p>
+						<a href="#" class="btn btn-3 f-right">更多</a>
+						</div>
+					</div>
+				</article>
+				<article>
+					<div class="art-header">
+						<a href="#"><h2>大表姐结婚了</h2></a>
+						<div class="info">By <a href="#">龚成楷</a> June 17, 2020。 999+ Comments</div>
+					</div>
+					<div class="art-content">
+						<div class="col-md-5">
+							<img src="images/2013woman/舆2大表姐结婚照.jpg" />
+						</div>
+						<div class="col-md-7">
+						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018年詹妮弗·劳伦斯被曝最近与33岁纽约Gladstone艺术馆总监库克·马鲁尼秘密约会，2019年据外媒报道两人已于2月订婚，也是双方的现任，两人于10月19日结婚。
+							当地时间2019年10月19日，“大表姐”詹妮弗·劳伦斯（Jennifer Lawrence）与男友库克·马鲁尼（Cooke Maroney）在美国罗德岛贝尔科特城堡举办了婚礼，现场宾客大牌云集。最新消息称：劳伦斯已在仪式上说出“我愿意”，两人正式结为夫妻。</p>
+						<a href="#" class="btn btn-3 f-right">更多</a>
+						</div>
+					</div>
+				</article>
+				<article>
+					<div class="art-header">
+						<a href="#"><h2>乌云背后的幸福线</h2></a>
+						<div class="info">By <a href="#">龚成楷</a> June 18, 2020。 999+ Comments</div>
+					</div>
+					<div class="art-content">
+						<div class="col-md-5">
+							<img src="images/2013woman/乌云背后的幸福线剧照.jpg" />
+						</div>
+						<div class="col-md-7">
+						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;男主人公帕特（布莱德利·库珀饰）是一个超级乐观的高中历史老师，他似乎总能看到人生的光明面，影片的片名就是来自于他的口头禅“every cloud has a silver lining”（直译：每朵乌云背后都有阳光；意译：山穷水复疑无路，柳暗花明又一村。）虽然他因神经疾病在医院住了八个月之后刚刚出院，老婆也跟别人跑了，但是他始终以这句古来的格言为信念。他对和妻子重修旧好充满信心，因此他搬回跟父母的住所，并努力把自己打造成妻子期望的形象。但最后还是败下阵来。后来帕特遇到了蒂凡尼（詹妮弗·劳伦斯饰），这位年轻的美人生活也很不如意，两个失意的人儿在一起艰难地探索人生，慢慢从友谊发展成相爱。</p>
+						<a href="#" class="btn btn-3 f-right">更多</a>
+						</div>
+					</div>
+				</article>
+				<div class="event">
+					
+						<h2>其他获奖记录</h2>
+					
+					
+						<div class="col-md-6">
+							<div class="row">
+								<div class="col-xs-3">
+									<div style="line-height: 1;margin-bottom: 15px;">
+										<strong style="font-size: 28px;">2016</strong></br>
+										<span style="font-size: 22px;">年</span></br>
+										
+									</div>
+								</div>
+								<div class="col-xs-8">
+									<h5> 2013年第85届奥斯卡金像奖最佳女主角 获奖作品：乌云背后的幸福线 </h5>
+									<a href="#">更多</a>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-xs-3">
+									<div style="line-height: 1;margin-bottom: 15px;">
+										<strong style="font-size: 28px;">2016</strong></br>
+										<span style="font-size: 22px;">年</span></br>
+										
+									</div>
+								</div>
+								<div class="col-xs-8">
+									<h5> 2008年第65届威尼斯国际电影节马赛罗·马斯楚安尼奖（最佳新人奖）获奖作品：燃烧的平原</h5>
+									<a href="#">更多</a>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-xs-3">
+									<div style="line-height: 1;margin-bottom: 15px;">
+										<strong style="font-size: 28px;">2019</strong></br>
+										<span style="font-size: 22px;">年</span></br>
+										
+									</div>
+								</div>
+								<div class="col-xs-8">
+									<h5>2016年第73届美国金球奖电影类音乐喜剧类最佳女主角  获奖作品：奋斗的乔伊</h5>
+									<a href="#">更多</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<img src="images/2013woman/大表姐捧杯.jpg" />
+						</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			
+			<div id="sidebar" class="col-md-4">
+				<div class="widget wid-vid">
+					<div class="heading"><h4>相关视频</h4></div>
+					<div class="content">
+						<div class="zoom-container">
+							<a href="images/sp.mp4">
+								<span class="zoom-caption">
+									<i class="icon-play fa fa-play"></i>
+								</span>
+								<img src="images/2013woman/奥斯卡获奖发言.png"/>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="widget wid-tags">
+					<div class="heading"><h4>主要作品</h4></div>
+					<div class="content">
+						<ul class="list-inline">
+							<li><a href="#">X战警：黑凤凰</a></li>
+							<li><a href="#">红雀</a></li>
+							<li><a href="#">玛丽塔</a></li>
+							<li><a href="#"> 母亲！</a></li>
+							<li><a href="#"> X战警：天启2</a></li>
+							<li><a href="#">太空旅客</a></li>
+							<li><a href="#">饥饿游戏系列</a></li>
+							<li><a href="#">乔伊的奋斗</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="widget wid-posts">
+					<div class="content">
+						<ul class="nav nav-tabs">
+							<li class="active"><a data-toggle="tab" href="#most">评论(999+)</a></li>
+				
+						</ul>
+						<div class="tab-content">
+							<div id="most" class="tab-pane fade in active">
+								<div class="post">
+									<a href="#"><img src="images/gck.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">龚成楷</a></h5>
+									  <p>一个独特的演员，能吸引观众深入了解他的角色。</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/ljc.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">李佳川</a></h5>
+									  <p>外表与肢体动作表演传神逼真，感染力十足。</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/yh3.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">用户3</a></h5>
+									  <p>他凭借超群的演技给人们留下了深刻印象。</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/yh4.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">用户4</a></h5>
+									  <p>大爱詹尼佛劳伦斯！</p>
+									</div>
+								</div>
+							</div>
+							<div id="popular" class="tab-pane fade">
+								<div class="post">
+									<a href="#"><img src="images/2.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/3.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/4.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/5.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+							</div>
+							<div id="recent" class="tab-pane fade">
+								<div class="post">
+									<a href="#"><img src="images/6.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/7.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/8.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/9.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+							</div>
+							<div id="random" class="tab-pane fade">
+								<div class="post">
+									<a href="#"><img src="images/10.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/5.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/7.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/8.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="widget wid-gallery">
+					<div class="heading"><h4>精美照片</h4></div>
+					<div class="content">
+						<div class="row">
+							<div class="col-xs-4">
+								<a href="#"><img src="images/2013woman/精美1.jpg"></a>
+								<a href="#"><img src="images/2013woman/精美2.jpg"></a>
+								<a href="#"><img src="images/2013woman/精美3.jpg"></a>
+							</div>
+							<div class="col-xs-4">
+								<a href="#"><img src="images/2013woman/精美4.jpg"></a>
+								<a href="#"><img src="images/2013woman/精美5.jpg"></a>
+								<a href="#"><img src="images/2013woman/精美6.jpg"></a>
+							</div>
+							<div class="col-xs-4">
+								<a href="#"><img src="images/2013woman/精美7.jpg"></a>
+								<a href="#"><img src="images/2013woman/精美8.jpg"></a>
+								<a href="#"><img src="images/2013woman/精美9.jpg"></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="gradient-line clearfix">
+		<div style="background: none repeat scroll 0% 0% #F69087;"></div>
+		<div style="background: none repeat scroll 0% 0% #85CCB1;"></div>
+		<div style="background: none repeat scroll 0% 0% #966b20;"></div>
+		<div style="background: none repeat scroll 0% 0% #85A9B3;"></div>
+		<div style="background: none repeat scroll 0% 0% #B0CB7A;"></div>
+	</div>
+	
+	<footer>
+		<div class="top-footer">
+			<div class="container">
+				<div class="row">
+					<ul class="list-inline">
+						<li><a href="#"></i> 侵权维权</a></li>
+						<li><a href="#"></i> 素材提供</a></li>
+						<li><a href="#"></i> 好片推荐</a></li>
+						<li><a href="#"></i> 您的建议</a></li>
+						<li><a href="#"></i> 联系我们</a></li>
+						<li><a href="#"></i> 加入我们</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="wrap-footer">
+			<div class="container">
+				<div class="row">
+				  <div class="col-md-3 col-footer footer-3">
+				    
+				    </div>
+						</div>
+					</div>
+		</div>
+			</div>
+		</div>
+		<div class="copyright">
+			<div class="container">
+				<div class="row"></div>
+			</div>
+		</div>
+	</footer>
+	
+
+
+
+
+<script src="js/jquery-1.11.3.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="js/agency.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="js/jquery.easing.min.js"></script>
+<script src="js/classie.js"></script>
+<script src="js/cbpAnimatedHeader.js"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html >
+<head>
+   
+
+    <title>丹尼尔·戴-刘易斯</title>
+
+    
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    
+    <link href="css2013man/style.css" rel="stylesheet">
+	
+	 
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+	
+  
+</head>
+<body>
+
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+          
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="index.html">丹尼尔·戴-刘易斯</a>
+            </div>
+
+            
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="../people.html">主页</a>
+                    </li>
+      
+                    <li>
+                        <a class="page-scroll" href="contact.html">联系我们</a>
+                    </li>
+                </ul>
+            </div>
+            
+        </div>
+        
+    </nav>
+	
+	<header id="page-top">
+		<div class="wrap-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="intro-text">
+							<div class="intro-lead-in">第85届奥斯卡金像奖</div>
+							<div class="intro-heading">最佳男主角</div>
+						</div>
+						<a href="single.html" class="btn btn-1">国籍：英国，爱尔兰（双国籍）</a>
+						<a href="contact.html" class="btn btn-2">影片：《林肯》</a>
+					</div>
+				</div>
+			</div>
+		</div>
+    </header>
+	
+	<div class="gradient-line clearfix">
+		<div style="background: none repeat scroll 0% 0% #F69087;"></div>
+		<div style="background: none repeat scroll 0% 0% #85CCB1;"></div>
+		<div style="background: none repeat scroll 0% 0% #966b20;"></div>
+		<div style="background: none repeat scroll 0% 0% #85A9B3;"></div>
+		<div style="background: none repeat scroll 0% 0% #B0CB7A;"></div>
+	</div>
+	
+
+	<div id="page-content" class="index-page">
+		<div class="container">
+			<div class="col-md-12">
+				<div class="team">
+					<h2>生平经历</h2>
+					<div class="row">
+					<div class="col-md-3">
+						<div class="row">
+							<div class="zoom-container">
+								<div class="zoom-caption">
+									<h3>基本信息</h3>
+									
+									<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;丹尼尔·戴-刘易斯 外文名：Daniel Day-Lewis/Daniel Michael Blake Day-Lewis 别名：刘皇叔 国籍：英国，爱尔兰（双国籍） 星座：金牛座 身高：188cm 出生地：英国伦敦格林威治 出生日期：1957年4月29日 职业：演员 毕业院校：英国老维克戏剧学校</p>
+									<ul class="list-inline">
+										
+									</ul>
+								</div>
+								<a href="single.html">
+									<img src="images/2013man/1.jpg" />
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="row">
+							<div class="zoom-container">
+								<div class="zoom-caption">
+									<h3>早年经历</h3>
+									
+									<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1968年，父母把戴-刘易斯送到位于肯特郡的一所寄宿学校，他虽然不喜欢那所学校，却在那里发现了自己的兴趣——戏剧与木工。15岁时，戴-刘易斯的父亲因胰腺癌过世，受到重大精神创伤的戴-刘易斯因滥用偏头痛药一度接受精神病专科治疗，直到遇见经纪人朱利安·贝尔弗雷吉。1982年，他出演《甘地传》。随后几年，他在《欢乐洗衣房》《看得见风景的房间》出演男配角。1989年，戴-刘易斯在伦敦西区舞台上出演《哈姆雷特》时，又遭遇了精神困扰。在演哈姆雷特和父亲亡魂对话时，他甚至感觉自己真的在和已故父亲对话，结果不慎失足跌落舞台。此后，他再也没登上戏剧舞台。
+</p>
+									<ul class="list-inline">
+										
+									</ul>
+								</div>
+								<a href="single.html">
+									<img src="images/2013man/2.jpg" />
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="row">
+							<div class="zoom-container">
+								<div class="zoom-caption">
+									<h3>演艺经历</h3>
+									
+									<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1971年，13岁的丹尼尔·戴-刘易斯在电影《血腥星期天》中亮相。1982年，出演《甘地传》。随后，在《欢乐洗衣房》《看得见风景的房间》出演男配角。1989年，戴-刘易斯出演《哈姆雷特》。在1989年《我的左脚》中，他饰演天才作家、画家克利斯提·布朗。在1992年影片《最后一个莫西干人》中，他演绎了英雄白人豪克伊。2000年影片《纽约黑帮》中，他得以出演“屠夫”比尔。2008年，戴-刘易斯凭借《血色将至》第二次获得奥斯卡最佳男主角。2013年2月25日，戴-刘易斯凭借《林肯》获得第85届奥斯卡金像奖最佳男主角。2017年，主演电影《霓裳魅影》。</p>
+									<ul class="list-inline">
+										
+									</ul>
+								</div>
+								<a href="single.html">
+									<img src="images/2013man/3.jpg" />
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="row">
+							<div class="zoom-container">
+								<div class="zoom-caption">
+									<h3>个人生活</h3>
+									
+									<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;丹尼尔·戴-刘易斯的父亲是英国桂冠诗人CecilDay-Lewis，母亲是犹太裔演员JillBalcon。
+1989年至1994年，他曾与法国女影星伊莎贝尔·阿佳妮（IsabelleAdjani）坠入爱河，于1995年4月9日有了第一个儿子加布里埃尔-凯恩（Gabriel-Kane），但不久俩人分手。
+1996年11月13日，丹尼尔与美国剧作家阿瑟·米勒的女儿丽贝卡·米勒（RebeccaMiller）结合定居在爱尔兰，分别于1998年6月14日、2002年5月又有了二个儿子：罗南（Ronan）和卡什尔-布莱克（Cashel-Blake）。</p>
+									<ul class="list-inline">
+										
+									</ul>
+								</div>
+								<a href="single.html">
+									<img src="images/2013man/4.jpg" />
+								</a>
+							</div>
+						</div>
+					</div>
+					</div>
+				</div>
+			</div>
+			<div id="main-content" class="col-md-8">
+				<article>
+					<div class="art-header">
+						<a href="#"><h2>丹尼尔戴刘易斯的鼻子</h2></a>
+						<div class="info">By <a href="#">龚成楷</a> June 12, 2020。    999+ Comments</div>
+					</div>
+					<div class="art-content">
+						<div class="col-md-5">
+							<img src="images/2013man/ddl的鼻子.png" alt="图片"/>
+						</div>
+						<div class="col-md-7">
+						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;丹尼尔现在的鼻子是歪的，有人说这就是他在出演《纽约黑帮》拍动作戏时被小李子打伤的，且当时丹尼尔选择继续坚持拍摄。也有人说是他在出演《纽约黑帮》拍动作戏时，DDL身下是沙袋，他演的时候真撞，于是……… 鼻子就歪了。</p>
+						<a href="#" class="btn btn-3 f-right">更多</a>
+						</div>
+					</div>
+				</article>
+				<article>
+					<div class="art-header">
+						<a href="#"><h2>刘易斯与阿佳妮为什么没在一起</h2></a>
+						<div class="info">By <a href="#">龚成楷</a> June 17, 2020。 999+ Comments</div>
+					</div>
+					<div class="art-content">
+						<div class="col-md-5">
+							<img src="images/2013man/ddl与阿佳妮为什么没在一起.png" />
+						</div>
+						<div class="col-md-7">
+						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当时的具体情况也就只有当事人才清楚吧。我只是在一些杂志上看到说刘易斯和阿佳妮的关系有点类似劳伦斯.奥利弗和费雯.丽。这两个英国男人都给人以高贵，英俊，戏剧化的感觉，而且愤世嫉俗，和奥利弗一样，刘易斯也以自己的艺术观深深地影响着他身边的阿佳妮，而且同样在她最脆弱的时候放手离去。可以说刘易斯冷酷地对待当时怀着他孩子的阿佳妮，最后和提出和她分手。即使是自己在法国一个人抚养儿子长大，阿佳妮也从没有在媒体面前怨过刘易斯一个字。</p>
+						<a href="#" class="btn btn-3 f-right">更多</a>
+						</div>
+					</div>
+				</article>
+				<article>
+					<div class="art-header">
+						<a href="#"><h2>三次获得奥斯卡影帝的丹尼尔·戴·刘易斯</h2></a>
+						<div class="info">By <a href="#">龚成楷</a> June 18, 2020。 999+ Comments</div>
+					</div>
+					<div class="art-content">
+						<div class="col-md-5">
+							<img src="images/2013man/ddl三次获奖.jpg" />
+						</div>
+						<div class="col-md-7">
+						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1989年，丹尼尔·戴-刘易斯凭借《我的左脚》第一次获得奥斯卡最佳男主角。2008年，丹尼尔·戴-刘易斯凭借《血色将至》第二次获得奥斯卡最佳男主角。2013年2月25日，丹尼尔·戴-刘易斯凭借《林肯》获得第85届奥斯卡金像奖最佳男主角，成为史上首位三度问鼎奥斯卡影帝的男演员   。</p>
+						<a href="#" class="btn btn-3 f-right">更多</a>
+						</div>
+					</div>
+				</article>
+				<div class="event">
+					
+						<h2>其他获奖记录</h2>
+					
+					
+						<div class="col-md-6">
+							<div class="row">
+								<div class="col-xs-3">
+									<div style="line-height: 1;margin-bottom: 15px;">
+										<strong style="font-size: 28px;">2016</strong></br>
+										<span style="font-size: 22px;">年</span></br>
+										
+									</div>
+								</div>
+								<div class="col-xs-8">
+									<h5> 2013年第85届奥斯卡金像奖最佳男主角  获奖作品：《林肯》</h5>
+									<a href="#">更多</a>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-xs-3">
+									<div style="line-height: 1;margin-bottom: 15px;">
+										<strong style="font-size: 28px;">2016</strong></br>
+										<span style="font-size: 22px;">年</span></br>
+										
+									</div>
+								</div>
+								<div class="col-xs-8">
+									<h5>2013年第70届美国金球奖电影类-剧情类最佳男主角  获奖作品：《林肯》</h5>
+									<a href="#">更多</a>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-xs-3">
+									<div style="line-height: 1;margin-bottom: 15px;">
+										<strong style="font-size: 28px;">2019</strong></br>
+										<span style="font-size: 22px;">年</span></br>
+										
+									</div>
+								</div>
+								<div class="col-xs-8">
+									<h5>2013年第66届英国电影学院奖最佳男主角  获奖作品：《林肯》</h5>
+									<a href="#">更多</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<img src="images/2013man/ddl获奖记录.jpg" />
+						</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			
+			<div id="sidebar" class="col-md-4">
+				<div class="widget wid-vid">
+					<div class="heading"><h4>相关视频</h4></div>
+					<div class="content">
+						<div class="zoom-container">
+							<a href="images/sp.mp4">
+								<span class="zoom-caption">
+									<i class="icon-play fa fa-play"></i>
+								</span>
+								<img src="images/2013man/ddl举杯.jpg" />
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="widget wid-tags">
+					<div class="heading"><h4>主要作品</h4></div>
+					<div class="content">
+						<ul class="list-inline">
+							<li><a href="#">霓裳魅影</a></li>
+							<li><a href="#">林肯</a></li>
+							<li><a href="#">血色将至</a></li>
+							<li><a href="#">九</a></li>
+							<li><a href="#">杰克和罗斯的情歌</a></li>
+							<li><a href="#">纽约黑帮</a></li>
+							<li><a href="#">因爱之名</a></li>
+							<li><a href="#">激情年代</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="widget wid-posts">
+					<div class="content">
+						<ul class="nav nav-tabs">
+							<li class="active"><a data-toggle="tab" href="#most">评论(999+)</a></li>
+				
+						</ul>
+						<div class="tab-content">
+							<div id="most" class="tab-pane fade in active">
+								<div class="post">
+									<a href="#"><img src="images/gck.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">龚成楷</a></h5>
+									  <p>一个独特的演员，能吸引观众深入了解他的角色。</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/ljc.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">李佳川</a></h5>
+									  <p>外表与肢体动作表演传神逼真，感染力十足。</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/yh3.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">用户3</a></h5>
+									  <p>他凭借超群的演技给人们留下了深刻印象。</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/yh4.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">用户4</a></h5>
+									  <p>大爱丹尼尔戴刘易斯！</p>
+									</div>
+								</div>
+							</div>
+							<div id="popular" class="tab-pane fade">
+								<div class="post">
+									<a href="#"><img src="images/2.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/3.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/4.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/5.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+							</div>
+							<div id="recent" class="tab-pane fade">
+								<div class="post">
+									<a href="#"><img src="images/6.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/7.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/8.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/9.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+							</div>
+							<div id="random" class="tab-pane fade">
+								<div class="post">
+									<a href="#"><img src="images/10.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/5.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/7.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+								<div class="post">
+									<a href="#"><img src="images/8.jpg"/></a>
+									<div class="wrapper">
+									  <h5><a href="#">A Blue Morning</a></h5>
+									  <p>March 1, 2015</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="widget wid-gallery">
+					<div class="heading"><h4>精美照片</h4></div>
+					<div class="content">
+						<div class="row">
+							<div class="col-xs-4">
+								<a href="#"><img src="images/2013man/精美1.jpg"></a>
+								<a href="#"><img src="images/2013man/精美2.jpg"></a>
+								<a href="#"><img src="images/2013man/精美3.jpg"></a>
+							</div>
+							<div class="col-xs-4">
+								<a href="#"><img src="images/2013man/精美4.jpg"></a>
+								<a href="#"><img src="images/2013man/精美5.jpg"></a>
+								<a href="#"><img src="images/2013man/精美6.jpg"></a>
+							</div>
+							<div class="col-xs-4">
+								<a href="#"><img src="images/2013man/精美7.jpg"></a>
+								<a href="#"><img src="images/2013man/精美8.jpg"></a>
+								<a href="#"><img src="images/2013man/精美9.jpg"></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="gradient-line clearfix">
+		<div style="background: none repeat scroll 0% 0% #F69087;"></div>
+		<div style="background: none repeat scroll 0% 0% #85CCB1;"></div>
+		<div style="background: none repeat scroll 0% 0% #966b20;"></div>
+		<div style="background: none repeat scroll 0% 0% #85A9B3;"></div>
+		<div style="background: none repeat scroll 0% 0% #B0CB7A;"></div>
+	</div>
+	
+	<footer>
+		<div class="top-footer">
+			<div class="container">
+				<div class="row">
+					<ul class="list-inline">
+						<li><a href="#"></i> 侵权维权</a></li>
+						<li><a href="#"></i> 素材提供</a></li>
+						<li><a href="#"></i> 好片推荐</a></li>
+						<li><a href="#"></i> 您的建议</a></li>
+						<li><a href="#"></i> 联系我们</a></li>
+						<li><a href="#"></i> 加入我们</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="wrap-footer">
+			<div class="container">
+				<div class="row">
+				  <div class="col-md-3 col-footer footer-3">
+				    
+				    </div>
+						</div>
+					</div>
+		</div>
+			</div>
+		</div>
+		<div class="copyright">
+			<div class="container">
+				<div class="row"></div>
+			</div>
+		</div>
+	</footer>
+	
+
+
+
+
+<script src="js/jquery-1.11.3.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="js/agency.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="js/jquery.easing.min.js"></script>
+<script src="js/classie.js"></script>
+<script src="js/cbpAnimatedHeader.js"></script>
+
+
+</body>
+</html>

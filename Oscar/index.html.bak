@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Main</title>
+  <style type"text/css">
+  *{
+	     margin:0px;
+		 padding:0px;
+	  }
+        video{  
+            position: fixed;  
+            right: 0px;  
+            width:100%;
+            height:100%;
+			height:auto;
+            z-index:-11
+        }  
+       
+      p{color:#3FF}
+        .p1{font-size:50px}
+        .p2{font-size:50px;align:center;}
+	 
+	 #header{bgcolor:black}
+	 #content{bgcolor:black;}
+     td{color:#3FF}
+	 
+	  a{font-size:23px}
+	 a:link { text-decoration: none;color: blue}
+　　 a:active { text-decoration:blink}
+　　 a:hover { text-decoration:underline;color:#3FF} 
+　　 a:visited { text-decoration: none;color: green}
+	 
+</style>
+ </head>
+ <body>
+      <video autoplay loop  muted>
+       <source src="Oscars2.mp4" type="video/mp4"  />
+       Your browser does not support the video tag.
+      </video>
+     <table border="0"  cellspacing="30" padding="0">
+        <tr height="20%">
+           <td width="60%"><p class="p1">Oscars</p></td>
+           <td><a href="index.html">主页</a></td>          
+            <td><a href="奥斯卡奖项设置/index_2.html">奖项设置</td>
+           <td><a href="奥斯卡的历史/index_3.html">奥斯卡历史</td>
+           <td><a href="people.html">历届影帝影后</a></td>
+           <td>关于我们</td>
+         </tr>
+       </table>
+       <br><br><br><br><br>
+       <p class="p2" align="center">To find classic</p>
+  </body>
+</html>
